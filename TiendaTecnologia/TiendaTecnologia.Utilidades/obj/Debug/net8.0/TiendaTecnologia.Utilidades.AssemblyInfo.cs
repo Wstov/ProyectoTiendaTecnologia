@@ -11,14 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-TiendaTecnologia-33e922ce-e3be-4e7a-a05d-42cf0e2c0906")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("TiendaTecnologia")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TiendaTecnologia.Utilidades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0729d45805c2a541b818ab8230d0ac62e651ee9")]
-[assembly: System.Reflection.AssemblyProductAttribute("TiendaTecnologia")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TiendaTecnologia")]
+[assembly: System.Reflection.AssemblyProductAttribute("TiendaTecnologia.Utilidades")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TiendaTecnologia.Utilidades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
