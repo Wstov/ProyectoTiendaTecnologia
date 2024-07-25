@@ -9,5 +9,8 @@ namespace TiendaTecnologia.Data
             : base(options)
         {
         }
+
+        // Modelos que se vayan creando
+
     }
 }
