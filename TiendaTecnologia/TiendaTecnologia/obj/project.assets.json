@@ -4557,11 +4557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ingenieria en Sistemas\\2024\\II Cuatri 2024\\05.Programacion Avanzada\\Proyecto\\ProyectoTiendaTecnologia\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.csproj",
+      "projectUniqueName": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.csproj",
       "projectName": "TiendaTecnologia",
-      "projectPath": "D:\\Ingenieria en Sistemas\\2024\\II Cuatri 2024\\05.Programacion Avanzada\\Proyecto\\ProyectoTiendaTecnologia\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.csproj",
+      "projectPath": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.csproj",
       "packagesPath": "C:\\Users\\Wstov\\.nuget\\packages\\",
-      "outputPath": "D:\\Ingenieria en Sistemas\\2024\\II Cuatri 2024\\05.Programacion Avanzada\\Proyecto\\ProyectoTiendaTecnologia\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\obj\\",
+      "outputPath": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wstov\\AppData\\Roaming\\NuGet\\NuGet.Config",

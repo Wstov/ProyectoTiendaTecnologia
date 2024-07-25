@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sf7SwUmEd/4=",
+  "dgSpecHash": "gHBvkTYLf/8=",
   "success": true,
-  "projectFilePath": "D:\\Ingenieria en Sistemas\\2024\\II Cuatri 2024\\05.Programacion Avanzada\\Proyecto\\ProyectoTiendaTecnologia\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.csproj",
+  "projectFilePath": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wstov\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Wstov\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
