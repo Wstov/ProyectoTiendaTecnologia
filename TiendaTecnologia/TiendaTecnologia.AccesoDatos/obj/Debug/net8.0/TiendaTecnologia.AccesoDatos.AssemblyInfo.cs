@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiendaTecnologia.AccesoDatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0729d45805c2a541b818ab8230d0ac62e651ee9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89c81f3a48bc690b66b35f79ba527804b4658a47")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiendaTecnologia.AccesoDatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiendaTecnologia.AccesoDatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
