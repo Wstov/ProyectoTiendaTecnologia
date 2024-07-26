@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6231E7D-D442-4C19-9639-0D2BCFCD753E}|TiendaTecnologia.Models\\TiendaTecnologia.Models.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia.models\\tiendatecnologia.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C6231E7D-D442-4C19-9639-0D2BCFCD753E}|TiendaTecnologia.Models\\TiendaTecnologia.Models.csproj|solutionrelative:tiendatecnologia.models\\tiendatecnologia.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\areas\\cliente\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\areas\\cliente\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia.accesodatos\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|solutionrelative:tiendatecnologia.accesodatos\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,131 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TiendaTecnologia\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TiendaTecnologia\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAFsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T00:52:52.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "bootstrap5.min.css",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
-              "RelativeDocumentMoniker": "TiendaTecnologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
-              "RelativeToolTip": "TiendaTecnologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQ0AAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-26T00:51:22.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TiendaTecnologia.Models",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.Models\\TiendaTecnologia.Models.csproj",
-              "RelativeDocumentMoniker": "TiendaTecnologia.Models\\TiendaTecnologia.Models.csproj",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.Models\\TiendaTecnologia.Models.csproj",
-              "RelativeToolTip": "TiendaTecnologia.Models\\TiendaTecnologia.Models.csproj",
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TiendaTecnologia.AccesoDatos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TiendaTecnologia.AccesoDatos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-26T00:42:15.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TiendaTecnologia\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TiendaTecnologia\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T00:30:34.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "TiendaTecnologia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "TiendaTecnologia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T00:29:36.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "TiendaTecnologia\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "TiendaTecnologia\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T00:28:46.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TiendaTecnologia\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TiendaTecnologia\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T00:25:48.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\appsettings.json",
-              "RelativeDocumentMoniker": "TiendaTecnologia\\appsettings.json",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\appsettings.json",
-              "RelativeToolTip": "TiendaTecnologia\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-26T00:24:33.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Program.cs",
-              "RelativeDocumentMoniker": "TiendaTecnologia\\Program.cs",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Program.cs",
-              "RelativeToolTip": "TiendaTecnologia\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T00:24:26.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "TiendaTecnologia\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "TiendaTecnologia\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-26T00:20:40.235Z",
+              "WhenOpened": "2024-07-26T04:46:27.287Z",
               "EditorCaption": ""
             }
           ]
