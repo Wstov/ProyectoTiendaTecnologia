@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ixN6biXKI1Ozi3tSDHwhVk7Inmi3hfyGcjBYEY9UqK0=",
+  "Hash": "9l9BhVKBXDOwYztzxfeABPn47jmgvj9sspPiEWbIREw=",
   "Source": "TiendaTecnologia",
   "BasePath": "_content/TiendaTecnologia",
   "Mode": "Default",
@@ -1402,6 +1402,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+      "SourceId": "TiendaTecnologia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\wwwroot\\",
+      "BasePath": "_content/TiendaTecnologia",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap5.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css"
     },
     {
       "Identity": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",

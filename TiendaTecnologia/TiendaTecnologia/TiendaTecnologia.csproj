@@ -20,4 +20,8 @@
     <Folder Include="Areas\Admin\Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TiendaTecnologia.AccesoDatos\TiendaTecnologia.AccesoDatos.csproj" />
+  </ItemGroup>
+
 </Project>

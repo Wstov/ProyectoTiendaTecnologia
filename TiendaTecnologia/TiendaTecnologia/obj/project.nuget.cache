@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Y8aG4HsUv2I=",
+  "dgSpecHash": "B2O7Kanny+s=",
   "success": true,
   "projectFilePath": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.csproj",
   "expectedPackageFiles": [
@@ -81,9 +81,9 @@
     "C:\\Users\\Wstov\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
     "C:\\Users\\Wstov\\.nuget\\packages\\microsoft.diasymreader\\2.0.0\\microsoft.diasymreader.2.0.0.nupkg.sha512",
     "C:\\Users\\Wstov\\.nuget\\packages\\microsoft.dotnet.scaffolding.shared\\8.0.3\\microsoft.dotnet.scaffolding.shared.8.0.3.nupkg.sha512",
-    "C:\\Users\\Wstov\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.5\\microsoft.entityframeworkcore.8.0.5.nupkg.sha512",
-    "C:\\Users\\Wstov\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.5\\microsoft.entityframeworkcore.abstractions.8.0.5.nupkg.sha512",
-    "C:\\Users\\Wstov\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.5\\microsoft.entityframeworkcore.analyzers.8.0.5.nupkg.sha512",
+    "C:\\Users\\Wstov\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
+    "C:\\Users\\Wstov\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",
+    "C:\\Users\\Wstov\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.7\\microsoft.entityframeworkcore.analyzers.8.0.7.nupkg.sha512",
     "C:\\Users\\Wstov\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.5\\microsoft.entityframeworkcore.design.8.0.5.nupkg.sha512",
     "C:\\Users\\Wstov\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.5\\microsoft.entityframeworkcore.relational.8.0.5.nupkg.sha512",
     "C:\\Users\\Wstov\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.5\\microsoft.entityframeworkcore.sqlserver.8.0.5.nupkg.sha512",

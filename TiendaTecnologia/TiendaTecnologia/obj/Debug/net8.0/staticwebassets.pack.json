@@ -149,6 +149,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+      "Id": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css"
+    },
+    {
       "Id": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
