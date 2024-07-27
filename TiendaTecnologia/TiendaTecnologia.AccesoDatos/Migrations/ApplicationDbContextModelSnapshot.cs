@@ -4,7 +4,6 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using System;
-using TiendaTecnologia.AccesoDatos.Data;
 using TiendaTecnologia.Data;
 
 namespace TiendaTecnologia.Data.Migrations

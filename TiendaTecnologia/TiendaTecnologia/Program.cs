@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using TiendaTecnologia.AccesoDatos.Data;
 using TiendaTecnologia.Data;
 
 var builder = WebApplication.CreateBuilder(args);
