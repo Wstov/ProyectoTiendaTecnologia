@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using TiendaTecnologia.AccesoDatos.Models;
 
 namespace TiendaTecnologia.Data
 {
@@ -10,7 +11,9 @@ namespace TiendaTecnologia.Data
         {
         }
 
-        // Modelos que se vayan creando
+        public virtual DbSet<Categoria> Categoria { get; set; }
+        public virtual DbSet<Proveedor> Proveedor { get; set; }
+        public virtual DbSet<Producto> Producto { get; set; }
 
     }
 }
