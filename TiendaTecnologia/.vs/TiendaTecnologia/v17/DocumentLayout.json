@@ -3,67 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia.accesodatos\\migrations\\20240727045953_creacionmodelopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|solutionrelative:tiendatecnologia.accesodatos\\migrations\\20240727045953_creacionmodelopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DB10A8-E627-4C11-B5E0-C0DF20C4B3F9}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7DB10A8-E627-4C11-B5E0-C0DF20C4B3F9}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia.accesodatos\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|solutionrelative:tiendatecnologia.accesodatos\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DB10A8-E627-4C11-B5E0-C0DF20C4B3F9}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DB10A8-E627-4C11-B5E0-C0DF20C4B3F9}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|solutionrelative:tiendatecnologia.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DB10A8-E627-4C11-B5E0-C0DF20C4B3F9}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7DB10A8-E627-4C11-B5E0-C0DF20C4B3F9}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6231E7D-D442-4C19-9639-0D2BCFCD753E}|TiendaTecnologia.Models\\TiendaTecnologia.Models.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia.models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6231E7D-D442-4C19-9639-0D2BCFCD753E}|TiendaTecnologia.Models\\TiendaTecnologia.Models.csproj|solutionrelative:tiendatecnologia.models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia.accesodatos\\migrations\\20240727034434_creacionmodeloproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|solutionrelative:tiendatecnologia.accesodatos\\migrations\\20240727034434_creacionmodeloproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia.accesodatos\\migrations\\20240727030439_creacionmodelocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|solutionrelative:tiendatecnologia.accesodatos\\migrations\\20240727030439_creacionmodelocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia.accesodatos\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|solutionrelative:tiendatecnologia.accesodatos\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6231E7D-D442-4C19-9639-0D2BCFCD753E}|TiendaTecnologia.Models\\TiendaTecnologia.Models.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia.models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6231E7D-D442-4C19-9639-0D2BCFCD753E}|TiendaTecnologia.Models\\TiendaTecnologia.Models.csproj|solutionrelative:tiendatecnologia.models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6231E7D-D442-4C19-9639-0D2BCFCD753E}|TiendaTecnologia.Models\\TiendaTecnologia.Models.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia.models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6231E7D-D442-4C19-9639-0D2BCFCD753E}|TiendaTecnologia.Models\\TiendaTecnologia.Models.csproj|solutionrelative:tiendatecnologia.models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia.accesodatos\\migrations\\20240727033824_creacionmodeloproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DDB80F-1D67-4B52-8CD1-7B2E63F0C795}|TiendaTecnologia.AccesoDatos\\TiendaTecnologia.AccesoDatos.csproj|solutionrelative:tiendatecnologia.accesodatos\\migrations\\20240727033824_creacionmodeloproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ingenieria en Sistemas\\2024\\II Cuatri 2024\\05.Programacion Avanzada\\Models\\Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6231E7D-D442-4C19-9639-0D2BCFCD753E}|TiendaTecnologia.Models\\TiendaTecnologia.Models.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6231E7D-D442-4C19-9639-0D2BCFCD753E}|TiendaTecnologia.Models\\TiendaTecnologia.Models.csproj|solutionrelative:tiendatecnologia.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{802BBEFF-6EE5-43AF-9A37-F8EDC94AE63E}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A7DB10A8-E627-4C11-B5E0-C0DF20C4B3F9}|TiendaTecnologia\\TiendaTecnologia.csproj|c:\\users\\wstov\\desktop\\proyecto programacion avanzada\\proyectotiendatecnologia\\tiendatecnologia\\tiendatecnologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DB10A8-E627-4C11-B5E0-C0DF20C4B3F9}|TiendaTecnologia\\TiendaTecnologia.csproj|solutionrelative:tiendatecnologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,207 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240727045953_CreacionModeloPedido.cs",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Migrations\\20240727045953_CreacionModeloPedido.cs",
-              "RelativeDocumentMoniker": "TiendaTecnologia.AccesoDatos\\Migrations\\20240727045953_CreacionModeloPedido.cs",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Migrations\\20240727045953_CreacionModeloPedido.cs",
-              "RelativeToolTip": "TiendaTecnologia.AccesoDatos\\Migrations\\20240727045953_CreacionModeloPedido.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T04:59:53.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.Models\\Pedido.cs",
-              "RelativeDocumentMoniker": "TiendaTecnologia.Models\\Pedido.cs",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.Models\\Pedido.cs",
-              "RelativeToolTip": "TiendaTecnologia.Models\\Pedido.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T03:49:39.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240727034434_CreacionModeloProducto.cs",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Migrations\\20240727034434_CreacionModeloProducto.cs",
-              "RelativeDocumentMoniker": "TiendaTecnologia.AccesoDatos\\Migrations\\20240727034434_CreacionModeloProducto.cs",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Migrations\\20240727034434_CreacionModeloProducto.cs",
-              "RelativeToolTip": "TiendaTecnologia.AccesoDatos\\Migrations\\20240727034434_CreacionModeloProducto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T03:44:34.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.Models\\Producto.cs",
-              "RelativeDocumentMoniker": "TiendaTecnologia.Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.Models\\Producto.cs",
-              "RelativeToolTip": "TiendaTecnologia.Models\\Producto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T03:39:42.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20240727033824_CreacionModeloProveedores.cs",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Migrations\\20240727033824_CreacionModeloProveedores.cs",
-              "RelativeDocumentMoniker": "TiendaTecnologia.AccesoDatos\\Migrations\\20240727033824_CreacionModeloProveedores.cs",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Migrations\\20240727033824_CreacionModeloProveedores.cs",
-              "RelativeToolTip": "TiendaTecnologia.AccesoDatos\\Migrations\\20240727033824_CreacionModeloProveedores.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T03:38:24.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Proveedor.cs",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.Models\\Proveedor.cs",
-              "RelativeDocumentMoniker": "TiendaTecnologia.Models\\Proveedor.cs",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.Models\\Proveedor.cs",
-              "RelativeToolTip": "TiendaTecnologia.Models\\Proveedor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T03:32:09.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "00000000000000_CreateIdentitySchema.cs",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeDocumentMoniker": "TiendaTecnologia.AccesoDatos\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeToolTip": "TiendaTecnologia.AccesoDatos\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwC8AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T03:28:53.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "TiendaTecnologia.AccesoDatos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "TiendaTecnologia.AccesoDatos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAHUBAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T04:46:27.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240727030439_CreacionModeloCategoria.cs",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Migrations\\20240727030439_CreacionModeloCategoria.cs",
-              "RelativeDocumentMoniker": "TiendaTecnologia.AccesoDatos\\Migrations\\20240727030439_CreacionModeloCategoria.cs",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Migrations\\20240727030439_CreacionModeloCategoria.cs",
-              "RelativeToolTip": "TiendaTecnologia.AccesoDatos\\Migrations\\20240727030439_CreacionModeloCategoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T03:04:39.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "TiendaTecnologia.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "TiendaTecnologia.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T03:02:27.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "D:\\Ingenieria en Sistemas\\2024\\II Cuatri 2024\\05.Programacion Avanzada\\Models\\Pedido.cs",
-              "ToolTip": "D:\\Ingenieria en Sistemas\\2024\\II Cuatri 2024\\05.Programacion Avanzada\\Models\\Pedido.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T03:49:21.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "TiendaTecnologia.Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia.Models\\Categoria.cs",
-              "RelativeToolTip": "TiendaTecnologia.Models\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T03:00:34.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Program.cs",
-              "RelativeDocumentMoniker": "TiendaTecnologia\\Program.cs",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Program.cs",
-              "RelativeToolTip": "TiendaTecnologia\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T02:55:15.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TiendaTecnologia\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TiendaTecnologia\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAEAAAAAOAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T02:53:52.587Z",
+              "WhenOpened": "2024-07-28T02:06:39.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "TiendaTecnologia\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "TiendaTecnologia\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T02:52:32.579Z",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TiendaTecnologia\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TiendaTecnologia\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwC4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T01:11:17.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaTecnologia\\Program.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\Program.cs",
+              "RelativeToolTip": "TiendaTecnologia\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T01:02:08.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\appsettings.json",
               "RelativeDocumentMoniker": "TiendaTecnologia\\appsettings.json",
               "ToolTip": "C:\\Users\\Wstov\\Desktop\\Proyecto Programacion Avanzada\\ProyectoTiendaTecnologia\\TiendaTecnologia\\TiendaTecnologia\\appsettings.json",
               "RelativeToolTip": "TiendaTecnologia\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-27T02:44:35.448Z",
+              "WhenOpened": "2024-07-28T01:00:27.154Z",
               "EditorCaption": ""
             }
           ]

@@ -11,12 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-TiendaTecnologia-33e922ce-e3be-4e7a-a05d-42cf0e2c0906")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiendaTecnologia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d3d8d4a3a450343ae7b752e93fdd56ae6184be2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73ca4b7eddd154580cb826f16acb7cda13e833d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiendaTecnologia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiendaTecnologia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
