@@ -1,0 +1,38 @@
+﻿@model List<Proveedor>
+
+<h1>Lista de proveedores</h1>
+
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark">
+        <tr class="text-center">
+            <th>ID Proveedor</th>
+            <th>Nombre</th>
+            <th>País</th>
+            <th>Teléfono</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var objModel in Model)
+        {
+            <tr class="text-center">
+                <td>@objModel.IDProveedor</td>
+                <td>@objModel.NombreProveedor</td>
+                <td>@objModel.Pais</td>
+                <td>@objModel.Telefono</td>
+                @if (User.IsInRole("admin"))
+                {
+                    <td><a href="@Url.Action("Edit", new { id = objModel.IDProveedor })">Editar</a></td>
+                    <td><a href="@Url.Action("Details", new { id = objModel.IDProveedor })">Detalles</a></td>
+                    <td><a href="@Url.Action("Delete", new { id = objModel.IDProveedor })">Eliminar</a></td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+@if (User.IsInRole("admin"))
+{
+    <a class="btn btn-primary" href="@Url.Action("Create")">Crear nuevo proveedor</a>
+}

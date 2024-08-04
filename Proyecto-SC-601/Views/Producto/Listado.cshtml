@@ -1,0 +1,55 @@
+﻿@model List<Producto>
+
+<h1>Lista de usuarios</h1>
+
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark">
+        <tr class="text-center">
+            <th></th>
+            <th>ID Producto</th>
+            <th>Nombre</th>
+            <th>Precio</th>
+            <th>Existencias</th>
+            <th>Activo</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var objModel in Model)
+        {
+            <tr class="text-center">
+                <td>
+                    <img src="@objModel.ImagenURL1" alt="Imagen Producto" width="30" height="30" />
+                </td>
+                <td>@objModel.IDProducto</td>
+                <td>@objModel.NombreProducto</td>
+                <td>@objModel.Precio</td>
+                <td>@objModel.Stock</td>
+                <td>
+                    @if (objModel.Activo)
+                    {
+                        <span>Activo</span>
+                    }
+                    else
+                    {
+                        <span>No Activo</span>
+                    }
+                </td>
+
+                @if (User.IsInRole("admin"))
+                {
+                    <td><a href="@Url.Action("Edit", new { id = objModel.IDProducto })">Editar</a></td>
+                    <td><a href="@Url.Action("Details", new { id = objModel.IDProducto  })">Detalles</a></td>
+                    <td><a href="@Url.Action("Delete", new { id = objModel.IDProducto })">Eliminar</a></td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (User.IsInRole("admin"))
+{
+    <a class="btn btn-primary" href="@Url.Action("Create")">Crear nuevo producto</a>
+}

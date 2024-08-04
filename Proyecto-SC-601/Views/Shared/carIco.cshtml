@@ -1,0 +1,39 @@
+﻿@{
+    var itemsCount = ViewBag.itemsCount ?? 0;
+}
+
+@if (itemsCount > 0)
+{
+    <a asp-controller="Carrito" asp-action="Listado" class="cart-icon-container cart-location">
+        <i class="fas fa-shopping-cart cart-icon"></i>
+        <span class="cart-count">@ViewBag.itemsCount</span>
+    </a>
+}
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<style>
+    .cart-icon-container {
+        position: relative;
+        display: inline-block;
+    }
+
+    .cart-icon {
+        font-size: 24px;
+        color: #CCE4FF;
+    }
+
+    .cart-count {
+        position: absolute;
+        background: red;
+        color: white;
+        border-radius: 50%;
+        width: 24px;
+        height: 24px;
+        text-align: center;
+        font-size: 12px;
+        line-height: 24px;
+    }
+</style>
