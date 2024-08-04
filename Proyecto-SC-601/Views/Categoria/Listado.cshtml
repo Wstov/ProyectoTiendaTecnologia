@@ -1,0 +1,36 @@
+﻿@model List<Categoria>
+
+<h1>Lista de categorías</h1>
+
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark">
+        <tr class="text-center">
+            <th>ID categoría</th>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var objModel in Model)
+        {
+            <tr class="text-center">
+                <td>@objModel.IDCategoria</td>
+                <td>@objModel.NombreCategoria</td>
+                <td>@objModel.Descripcion</td>
+                @if (User.IsInRole("admin"))
+                {
+                    <td><a href="@Url.Action("Edit", new { id = objModel.IDCategoria })">Editar</a></td>
+                    <td><a href="@Url.Action("Details", new { id = objModel.IDCategoria })">Detalles</a></td>
+                    <td><a href="@Url.Action("Delete", new { id = objModel.IDCategoria })">Eliminar</a></td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+@if (User.IsInRole("admin"))
+{
+    <a class="btn btn-primary" href="@Url.Action("Create")">Crear nueva categoría</a>
+}

@@ -1,0 +1,73 @@
+﻿@model Producto
+
+<div class="cart">
+    @Html.Partial("carIco")
+</div>
+
+<style>
+    .cart-location {
+        position: fixed;
+        top: 10px;
+        right: 10px;
+        padding: 12px 25px;
+    }
+</style>
+
+<h3>Detalles del usuario</h3>
+
+<div>
+    <h4>Editar Producto</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Nombre Producto</dt>
+        <dd class="col-sm-10">@Model.NombreProducto</dd>
+
+        <dt class="col-sm-2">Descripción</dt>
+        <dd class="col-sm-10">@Model.Descripcion</dd>
+
+        <dt class="col-sm-2">Precio</dt>
+        <dd class="col-sm-10">@Model.Precio</dd>
+
+        <dt class="col-sm-2">Stock</dt>
+        <dd class="col-sm-10">@Model.Stock</dd>
+
+        <dt class="col-sm-2">Categoría</dt>
+        <dd class="col-sm-10">@ViewBag.NombreCategoria</dd>
+
+        <dt class="col-sm-2">Proveedor</dt>
+        <dd class="col-sm-10">@ViewBag.NombreProveedor</dd>
+
+        <dt class="col-sm-2">Activo</dt>
+        <dd class="col-sm-10">
+            @if (Model.Activo)
+            {
+                <span>Activo</span>
+            }
+            else
+            {
+                <span>No Activo</span>
+            }
+        </dd>
+
+
+        <dt class="col-sm-2">Imagen 1</dt>
+        <dd class="col-sm-10">
+            <img src="@Model.ImagenURL1" alt="Imagen 1" width="200" height="200" />
+        </dd>
+
+        <dt class="col-sm-2">Imagen 2</dt>
+        <dd class="col-sm-10">
+            <img src="@Model.ImagenURL2" alt="Imagen 2" width="200" height="200" />
+        </dd>
+
+        <dt class="col-sm-2">Imagen 3</dt>
+        <dd class="col-sm-10">
+            <img src="@Model.ImagenURL3" alt="Imagen 3" width="200" height="200" />
+        </dd>
+    </dl>
+</div>
+
+
+<div>
+    <a asp-action="Index" class="btn btn-secondary">Volver a la lista</a>
+</div>

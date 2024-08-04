@@ -1,0 +1,59 @@
+﻿ @model Proyecto_SC_601.Models.Proveedor;
+
+<h1>Crear proveedor</h1>
+
+<div>
+    <form asp-action="Create">
+        <div class="form-group">
+            <label for="NombreProveedor">Nombre</label>
+            <input asp-for="NombreProveedor" class="form-control" />
+            <span asp-validation-for="NombreProveedor" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Contacto">Contacto</label>
+            <input asp-for="Contacto" class="form-control" />
+            <span asp-validation-for="Contacto" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Direccion">Direccion</label>
+            <input asp-for="Direccion" class="form-control" />
+            <span asp-validation-for="Direccion" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Ciudad">Ciudad</label>
+            <input asp-for="Ciudad" class="form-control" />
+            <span asp-validation-for="Ciudad" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Pais">País</label>
+            <input asp-for="Pais" class="form-control" />
+            <span asp-validation-for="Pais" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Telefono">Teléfono</label>
+            <input asp-for="Telefono" class="form-control" />
+            <span asp-validation-for="Telefono" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Email">Email</label>
+            <input asp-for="Email" type="email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        @if (User.IsInRole("admin"))
+        {
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary"></input>
+            </div>
+        }
+    </form>
+
+    <a asp-action="Listado" class="btn btn-secondary">Volver a la lista</a>
+</div>
+

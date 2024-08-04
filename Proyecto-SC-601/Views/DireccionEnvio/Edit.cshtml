@@ -1,0 +1,53 @@
+﻿ @model Proyecto_SC_601.Models.DireccionEnvio;
+
+<h1>Editar Usuario</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <input asp-for="IDDireccion" type="hidden" />
+            <input asp-for="IDUsuario" type="hidden" />
+
+            <div class="form-group">
+                <label for="Direccion">Dirección</label>
+                <input asp-for="Direccion" class="form-control" />
+                <span asp-validation-for="Direccion" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="Ciudad">Ciudad</label>
+                <input asp-for="Ciudad" class="form-control" />
+                <span asp-validation-for="Ciudad" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="Pais">País</label>
+                <input asp-for="Pais" class="form-control" />
+                <span asp-validation-for="Pais" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="CodigoPostal">Código Postal</label>
+                <input asp-for="CodigoPostal" class="form-control" />
+                <span asp-validation-for="CodigoPostal" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="Telefono">Teléfono</label>
+                <input asp-for="Telefono" class="form-control" />
+                <span asp-validation-for="Telefono" class="text-danger"></span>
+            </div>
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                <div class="form-group">
+                    <input type="submit" value="Confirmar" class="btn btn-primary"></input>
+                </div>
+            }
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="Listado" class="btn btn-secondary">Volver a la lista</a>
+</div>

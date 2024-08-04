@@ -1,0 +1,28 @@
+﻿ @model Proyecto_SC_601.Models.Categoria;
+
+<h1>Crear Categoría</h1>
+
+<div>
+    <form asp-action="Create">
+        <div class="form-group">
+            <label for="NombreCategoria">Nombre</label>
+            <input asp-for="NombreCategoria" class="form-control" />
+            <span asp-validation-for="NombreCategoria" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Descripcion">Descripción</label>
+            <input asp-for="Descripcion" class="form-control" />
+            <span asp-validation-for="Descripcion" class="text-danger"></span>
+        </div>
+        @if (User.IsInRole("admin"))
+        {
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary"></input>
+        </div>
+        }
+    </form>
+
+    <a asp-action="Listado" class="btn btn-secondary">Volver a la lista</a>
+</div>
+
