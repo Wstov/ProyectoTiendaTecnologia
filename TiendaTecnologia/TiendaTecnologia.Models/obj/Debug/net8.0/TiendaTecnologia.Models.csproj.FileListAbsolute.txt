@@ -1,0 +1,12 @@
+C:\Users\Wstov\Desktop\Proyecto Programacion Avanzada\ProyectoTiendaTecnologia\TiendaTecnologia\TiendaTecnologia.Models\bin\Debug\net8.0\TiendaTecnologia.Models.deps.json
+C:\Users\Wstov\Desktop\Proyecto Programacion Avanzada\ProyectoTiendaTecnologia\TiendaTecnologia\TiendaTecnologia.Models\bin\Debug\net8.0\TiendaTecnologia.Models.dll
+C:\Users\Wstov\Desktop\Proyecto Programacion Avanzada\ProyectoTiendaTecnologia\TiendaTecnologia\TiendaTecnologia.Models\bin\Debug\net8.0\TiendaTecnologia.Models.pdb
+C:\Users\Wstov\Desktop\Proyecto Programacion Avanzada\ProyectoTiendaTecnologia\TiendaTecnologia\TiendaTecnologia.Models\obj\Debug\net8.0\TiendaTecnologia.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wstov\Desktop\Proyecto Programacion Avanzada\ProyectoTiendaTecnologia\TiendaTecnologia\TiendaTecnologia.Models\obj\Debug\net8.0\TiendaTecnologia.Models.AssemblyInfoInputs.cache
+C:\Users\Wstov\Desktop\Proyecto Programacion Avanzada\ProyectoTiendaTecnologia\TiendaTecnologia\TiendaTecnologia.Models\obj\Debug\net8.0\TiendaTecnologia.Models.AssemblyInfo.cs
+C:\Users\Wstov\Desktop\Proyecto Programacion Avanzada\ProyectoTiendaTecnologia\TiendaTecnologia\TiendaTecnologia.Models\obj\Debug\net8.0\TiendaTecnologia.Models.csproj.CoreCompileInputs.cache
+C:\Users\Wstov\Desktop\Proyecto Programacion Avanzada\ProyectoTiendaTecnologia\TiendaTecnologia\TiendaTecnologia.Models\obj\Debug\net8.0\TiendaTecnologia.Models.sourcelink.json
+C:\Users\Wstov\Desktop\Proyecto Programacion Avanzada\ProyectoTiendaTecnologia\TiendaTecnologia\TiendaTecnologia.Models\obj\Debug\net8.0\TiendaTecnologia.Models.dll
+C:\Users\Wstov\Desktop\Proyecto Programacion Avanzada\ProyectoTiendaTecnologia\TiendaTecnologia\TiendaTecnologia.Models\obj\Debug\net8.0\refint\TiendaTecnologia.Models.dll
+C:\Users\Wstov\Desktop\Proyecto Programacion Avanzada\ProyectoTiendaTecnologia\TiendaTecnologia\TiendaTecnologia.Models\obj\Debug\net8.0\TiendaTecnologia.Models.pdb
+C:\Users\Wstov\Desktop\Proyecto Programacion Avanzada\ProyectoTiendaTecnologia\TiendaTecnologia\TiendaTecnologia.Models\obj\Debug\net8.0\ref\TiendaTecnologia.Models.dll
