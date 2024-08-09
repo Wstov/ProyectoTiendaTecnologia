@@ -47,6 +47,10 @@
                             <li class="nav-item">
                                 <a class="nav-link" asp-controller="DireccionEnvio" asp-action="Listado">Mis direcciones</a>
                             </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Carrito" asp-action="Historial">Ver historial de compras</a>
+                            </li>
                         }
                         @if (User.IsInRole("admin")) {
                             <li class="nav-item dropdown">

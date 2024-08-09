@@ -160,23 +160,28 @@ namespace Proyecto_SC_601.Controllers
         [HttpPost]
         public async Task<IActionResult> Pago(int IDDireccion)
         {
+            int generatedID = 0;
+            decimal vTotal = 0;
+
             if (IDDireccion != 0) 
             { 
                 var usuarioID = await _cHelper.getUserIdByEmail(User.Identity.Name);
                 var detallesCarrito = await _context.Carritos.Where(c => c.IDUsuario == usuarioID).ToListAsync();
+                vTotal = detallesCarrito.Sum(p => p.Cantidad * p.PrecioUnitario) * 1.13m;
+
                 var pedido = new Pedido
                 {
                     IDPedido = 0,
                     IDUsuario = usuarioID,
                     IDDireccion = IDDireccion,
                     FechaPedido = DateTime.UtcNow,
-                    Total = detallesCarrito.Sum(p => p.Cantidad * p.PrecioUnitario) * 1.13m,
+                    Total = vTotal,
                     Estado = "Pagado"
                 };
 
                 _context.Pedidos.Add(pedido);
                 await _context.SaveChangesAsync();
-                int generatedID = pedido.IDPedido;
+                generatedID = pedido.IDPedido;
                 var producto = new Producto();
 
                 foreach (var detalleCarrito in detallesCarrito)
@@ -205,7 +210,9 @@ namespace Proyecto_SC_601.Controllers
                 _context.Carritos.RemoveRange(carritos);
                 await _context.SaveChangesAsync();
             }
-            return RedirectToAction(nameof(Listado));
+            //return RedirectToAction(nameof(Listado));
+            return RedirectToAction("FacturaPdf", new { id = generatedID });
+
         }
 
         public async Task<IActionResult> DetalleProducto(int id)
@@ -231,6 +238,43 @@ namespace Proyecto_SC_601.Controllers
             return View(objModel);
         }
 
+        public async Task<ActionResult> FacturaPdf(int id)
+        {
+            if (id == 0)
+            {
+                return NotFound();
+            }
+
+            var pedido = await _context.Pedidos.FirstOrDefaultAsync(p => p.IDPedido == id);
+            decimal vTotal = pedido.Total;
+
+            var productosEnCarrito = await (from p in _context.Productos
+                                            join d in _context.DetallesPedidos on p.IDProducto equals d.IDProducto
+                                            where d.IDPedido == id
+                                            select new
+                                            {
+                                                p.NombreProducto,
+                                                p.Descripcion,
+                                                d.PrecioUnitario,
+                                                d.Cantidad,
+                                                Subtotal = d.Cantidad * d.PrecioUnitario
+                                            }).ToListAsync();
+
+            if (productosEnCarrito == null)
+            {
+                return NotFound();
+            }
+
+            
+            decimal subtotal = productosEnCarrito.Sum(p => p.Subtotal);
+            ViewBag.Fecha = pedido.FechaPedido;
+            ViewBag.Subtotal = subtotal;
+            ViewBag.IVA = vTotal - subtotal;
+            ViewBag.Total = vTotal;
+            ViewBag.productosEnCarrito = productosEnCarrito;
+            return View("FacturaPdf");
+        }
+
         [HttpGet]
         public async Task<IActionResult> GetItemsCount()
         {
@@ -238,5 +282,10 @@ namespace Proyecto_SC_601.Controllers
             return Json(new { count = itemsCount });
         }
 
+        public async Task<IActionResult> Historial()
+        {
+            int usuarioID = await _cHelper.getUserIdByEmail(User.Identity.Name);
+            return View(await _context.Pedidos.Where(c => c.IDUsuario == usuarioID).ToListAsync());
+        }
     }
 }

@@ -1,0 +1,38 @@
+﻿@model List<Pedido>
+
+<h1>Historial de pedidos</h1>
+
+@if (User.Identity.IsAuthenticated)
+{
+   
+
+<h1>Lista de categorías</h1>
+
+    <table class="table table-striped table-bordered">
+        <thead class="thead-dark">
+            <tr class="text-center">
+                <th>ID pedido</th>
+                <th>Fecha</th>
+                <th>Total</th>
+                <th>Estado</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var objModel in Model)
+            {
+                <tr class="text-center">
+                    <td>@objModel.IDPedido</td>
+                    <td>@objModel.FechaPedido</td>
+                    <td>@objModel.Total</td>
+                    <td>@objModel.Estado</td>
+                    <td><a href="@Url.Action("FacturaPdf", new { id = objModel.IDPedido })">Ver factura</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}  
+else
+{
+    <p>Regístrese o Inicie sesión</p>
+}
