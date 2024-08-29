@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Proyecto_SC_601.Models
 {
@@ -14,6 +15,7 @@ namespace Proyecto_SC_601.Models
         public string Descripcion { get; set; }
 
         [Required]
+        [Column(TypeName = "decimal(25,2)")]
         public decimal Precio { get; set; }
 
         [Required]

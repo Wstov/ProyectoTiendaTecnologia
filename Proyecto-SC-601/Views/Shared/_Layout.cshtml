@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Proyecto_SC_601</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-min.css" />
     <link rel="stylesheet" href="~/Proyecto_SC_601.styles.css" asp-append-version="true" />
 
     <link rel="stylesheet" href="https://cdn.datatables.net/2.0.0/css/dataTables.dataTables.min.css" />
@@ -14,30 +14,38 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
 </head>
 <body>
-    <div class="cart">
-        @Html.Partial("carIco")
-    </div>
 
     <style>
-        .cart-location {
-            position: fixed;
-            top: 10px;
-            right: 10px;
-            padding: 12px 25px;
+        .cart {
+        
+        }
+
+        .navbar-nav {
+            flex-grow: 1;
+        }
+
+        .navbar-nav.ms-auto {
+           margin-left: auto;
         }
     </style>
-    <header>
-        @* Bootswatch *@
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark" data-bs-theme="dark">
-            <div class="container">
-                <a class="navbar-brand" asp-controller="Home" asp-action="Index"><img src="https://1drv.ms/i/c/eb0e7e40f8f96d74/IQOZChdoSgWySKJrgNwnjbVoAb87N5XywaqGA_O0Th-4pf8?width=64" alt="Logo" width="40" height="40" /></a>
+    <header">
+        <nav class="navbar navbar-expand-lg bg-primary navbar-dark">
+            <div class="container-fluid  mx-5">
+                <!-- Logo and Brand -->
+                <a class="navbar-brand d-flex align-items-center" asp-controller="Home" asp-action="Index">
+                    <img src="https://1drv.ms/i/c/eb0e7e40f8f96d74/IQOZChdoSgWySKJrgNwnjbVoAb87N5XywaqGA_O0Th-4pf8?width=64" alt="Logo" width="40" height="40" class="me-2" />
+                </a>
+
+                <!-- Toggler for mobile view -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
+
+                <!-- Navbar content -->
                 <div class="collapse navbar-collapse" id="navbarColor01">
                     <ul class="navbar-nav me-auto">
                         <li class="nav-item">
-                            <a class="nav-link" asp-controller="Home" asp-action="Index">Inicio</a>
+                            <a class="nav-link active" asp-controller="Home" asp-action="Index">Inicio</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Carrito" asp-action="Index">Ver productos</a>
@@ -47,53 +55,68 @@
                             <li class="nav-item">
                                 <a class="nav-link" asp-controller="DireccionEnvio" asp-action="Listado">Mis direcciones</a>
                             </li>
-
                             <li class="nav-item">
-                                <a class="nav-link" asp-controller="Carrito" asp-action="Historial">Ver historial de compras</a>
+                                <a class="nav-link" asp-controller="Carrito" asp-action="Historial">Historial de compras</a>
                             </li>
                         }
-                        @if (User.IsInRole("admin")) {
+                        @if (User.IsInRole("admin"))
+                        {
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Administrar Contenidos</a>
-                                <div class="dropdown-menu">
+                                <a class="nav-link dropdown-toggle active" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Administrar Contenidos</a>
+                                <div class="dropdown-menu dropdown-menu-dark">
                                     <a class="dropdown-item" asp-controller="Categoria" asp-action="Listado">Categorías</a>
                                     <a class="dropdown-item" asp-controller="Producto" asp-action="Listado">Artículos</a>
                                     <a class="dropdown-item" asp-controller="Proveedor" asp-action="Listado">Proveedores</a>
-                                    <a class="dropdown-item" asp-controller="Usuario" asp-action="Listado">Usuarios</a>
                                     <div class="dropdown-divider"></div>
-                                    <a class="dropdown-item" href="#">Separated link</a>
+                                    <a class="dropdown-item" asp-controller="Usuario" asp-action="Listado">Usuarios</a>
                                 </div>
                             </li>
                         }
                     </ul>
-                    <form class="d-flex" action="@Url.Action("IndexFiltro", "Carrito")" method="get">
-                        <input class="form-control" type="search" name="nombre" placeholder="Buscar" />
-                        <button class="btn btn-secondary my-2 my-sm-0" type="submit">Buscar</button>
+
+                    <!-- Search Form -->
+                    <form class="d-flex me-3" action="@Url.Action("IndexFiltro", "Carrito")" method="get">
+                        <input class="form-control me-2" type="search" name="nombre" placeholder="Buscar" aria-label="Buscar" />
+                        <button class="btn btn-secondary" type="submit">Buscar</button>
                     </form>
 
+                    <!-- User Authentication Links -->
                     <ul class="navbar-nav ms-auto">
                         @if (User.Identity.IsAuthenticated)
                         {
-                            <a style="text-decoration: none;" class="navbar-text"><i class="fa-regular fa-user"></i>@User.Identity.Name</a>
-
-                            <a class="nav-link active" href="@Url.Action("Logout", "Account")"><i class="fa-solid fa-right-from-bracket"></i>Logout</a>
+                            <li class="nav-item d-flex align-items-center">
+                                <span class="navbar-text me-3"><i class="fa-regular fa-user"></i> @User.Identity.Name</span>
+                                <a class="nav-link active" href="@Url.Action("Logout", "Account")">
+                                    <i class="fa-solid fa-right-from-bracket"></i>
+                                    Logout
+                                </a>
+                            </li>
                         }
                         else
                         {
-                        <li class="nav-item me-sm-2">
-                            <a class="nav-link active" href="@Url.Action("Login", "Account")">Login</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" href="@Url.Action("Register", "Account")">Register</a>
-                        </li>
-                        }                
+                            <li class="nav-item me-sm-2">
+                                <a class="nav-link active" href="@Url.Action("Login", "Account")">Login</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" href="@Url.Action("Register", "Account")">Register</a>
+                            </li>
+                           <li class="nav-item">
+                                <!-- Cart Icon -->
+                                <div class="cart">@Html.Partial("carIco")
+                                </div>
+                            </li>
+
+                        }
                     </ul>
+
+
                 </div>
-                
             </div>
         </nav>
-
     </header>
+
+
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -114,7 +137,7 @@
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.serializeJSON/3.2.1/jquery.serializejson.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert2/11.10.5/sweetalert2.min.js"></script>
-
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
